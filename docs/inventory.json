@@ -1,1 +1,8 @@
-{ "generated_at": null, "sync_status": {}, "items": [] }
+{
+  "generated_at": "2026-10-20T18:21:22+00:00",
+  "sync_status": {
+    "amazon": "not configured",
+    "walmart": "not configured"
+  },
+  "items": []
+}
